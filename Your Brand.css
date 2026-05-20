@@ -40,6 +40,8 @@ body {
     font-weight: 600;
     font-style: normal;
 
+    margin-right: 5px;
+
     display: flex;
     list-style: none;
     margin: 0;
@@ -265,7 +267,7 @@ img {
     flex-wrap: wrap;
     list-style: none;
     width: 300px;
-
+    margin-right: 10px;
 
 }
 
