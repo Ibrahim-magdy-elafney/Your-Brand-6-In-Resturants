@@ -69,7 +69,6 @@ ul {
 
     display: flex;
     align-items: center;
-    justify-content: space-around;
     margin-right: 20px;
 
 }
@@ -308,7 +307,7 @@ img {
     align-self: flex-start;
     margin-bottom: 100px;
     justify-content: space-between;
-    margin-right: 22px;
+    margin-right: 23px;
 
 }
 
