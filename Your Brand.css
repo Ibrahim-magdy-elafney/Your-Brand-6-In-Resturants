@@ -70,7 +70,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-right: 5px;
+    margin-right: 20px;
 
 }
 
@@ -308,7 +308,7 @@ img {
     align-self: flex-start;
     margin-bottom: 100px;
     justify-content: space-between;
-    margin-right: 20px;
+    margin-right: 22px;
 
 }
 
